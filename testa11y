@@ -1,0 +1,3 @@
+public class tes{
+public int t{get;set;}
+}
